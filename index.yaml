@@ -3,7 +3,7 @@ entries:
   educacionit-chart:
   - apiVersion: v2
     appVersion: 1.26.2
-    created: "2024-08-15T20:22:34.654497-03:00"
+    created: "2024-08-15T20:49:19.228327-03:00"
     description: A Helm chart for DevOps Bootcamp - EducacionIT
     digest: 6546b22d39c556e11dd4726b9459c3d03b99de4742dd3c409bbf7a57f1673c53
     name: educacionit-chart
@@ -11,14 +11,4 @@ entries:
     urls:
     - charts/educacionit-chart-0.2.0.tgz
     version: 0.2.0
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2024-08-15T20:12:32.067398-03:00"
-    description: A Helm chart for DevOps Bootcamp - EducacionIT
-    digest: d06db5a71879cb670f134d61dec533ed8e2730795a14048766f148a42c39e8a7
-    name: educacionit-chart
-    type: application
-    urls:
-    - charts/educacionit-chart-0.1.0.tgz
-    version: 0.1.0
-generated: "2024-08-15T20:22:34.649312-03:00"
+generated: "2024-08-15T20:49:19.223735-03:00"
